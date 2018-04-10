@@ -21,3 +21,5 @@ Missingno is used for visualizations of missing values. I installed it with the 
 https://github.com/ResidentMario/missingno
 
 https://www.kaggle.com/dimarudov/data-analysis-using-sql
+
+https://pythonprogramming.net/matplotlib-python-3-basics-tutorial/
